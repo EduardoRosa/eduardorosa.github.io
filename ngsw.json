@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1600725418350,
+  "timestamp": 1600741421880,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.450af7c9ccec0a0601c7.js",
-        "/main-es5.450af7c9ccec0a0601c7.js",
+        "/main-es2015.9e65bba68d9430249324.js",
+        "/main-es5.9e65bba68d9430249324.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.ffa9bb4e015925544f91.js",
         "/polyfills-es5.44547b4d4a23c72d0f9c.js",
@@ -88,6 +88,7 @@
         "/assets/img/menu-black-18dp.zip",
         "/assets/img/menu-black-18dp/1x/baseline_menu_black_18dp.png",
         "/assets/img/menu-black-18dp/2x/baseline_menu_black_18dp.png",
+        "/assets/img/offer-mobile.png",
         "/assets/img/offer.png",
         "/assets/img/offer1.jpg",
         "/assets/img/picture-fifa.png",
@@ -107,7 +108,8 @@
         "/fontawesome-webfont.b06871f281fee6b241d6.ttf",
         "/fontawesome-webfont.fee66e712a8a08eef580.woff",
         "/lines-gold.add6ceb526b7f674aaac.png",
-        "/offer.69fb0a9c57ea9929abe5.png"
+        "/offer-mobile.a80943ad46b979e6ccdc.png",
+        "/offer.5d09cca58f221bdbba38.png"
       ],
       "patterns": []
     }
@@ -176,7 +178,8 @@
     "/assets/img/menu-black-18dp.zip": "96c9da26365bf2700990139e5887e3a5cb9b8603",
     "/assets/img/menu-black-18dp/1x/baseline_menu_black_18dp.png": "149fd299c6a82bdf260bd75d25f7a48f741129bd",
     "/assets/img/menu-black-18dp/2x/baseline_menu_black_18dp.png": "0c67ede30b9e59b0953287849faf1fefc75fd732",
-    "/assets/img/offer.png": "d04d463f764123dc060a149e5b03248a4668e666",
+    "/assets/img/offer-mobile.png": "ad36dad894b333a675d965974b073fd29dd379bd",
+    "/assets/img/offer.png": "c2dbbcf0b61743a4daae9994e560f9bf41dc35cb",
     "/assets/img/offer1.jpg": "00a9da3f13bb6a4dbd4cd8f67b8ec607c38d947e",
     "/assets/img/picture-fifa.png": "b1ad519a03f65ec058c16d2eb8fee60d790dd47d",
     "/assets/img/prata.jfif": "7e7571147629d3a3ac6cc5b1fafe44faa03a732d",
@@ -195,12 +198,13 @@
     "/fontawesome-webfont.af7ae505a9eed503f8b8.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
     "/fontawesome-webfont.b06871f281fee6b241d6.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
     "/fontawesome-webfont.fee66e712a8a08eef580.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "/index.html": "a68723038e471b3b1b75554ca918dee02fb20b55",
+    "/index.html": "70857cb1d5a1ef52bdbf37908af542e525f68eba",
     "/lines-gold.add6ceb526b7f674aaac.png": "372a9b275eba79ebe1035b28d1ee231acace6d82",
-    "/main-es2015.450af7c9ccec0a0601c7.js": "c5e34ce098e840a2b0d3fd508aeac898098be7e1",
-    "/main-es5.450af7c9ccec0a0601c7.js": "1d6c65c5d46aeca5bee8409d1147f533858fe85e",
+    "/main-es2015.9e65bba68d9430249324.js": "bf5f4cae74b3f5c4331a4f38b6bb30ee307ab00d",
+    "/main-es5.9e65bba68d9430249324.js": "617298a9f2650915c065efa524cd052ea378e9d1",
     "/manifest.webmanifest": "9262ffbc679801db646c67f8e3f5a337825f45f2",
-    "/offer.69fb0a9c57ea9929abe5.png": "d04d463f764123dc060a149e5b03248a4668e666",
+    "/offer-mobile.a80943ad46b979e6ccdc.png": "ad36dad894b333a675d965974b073fd29dd379bd",
+    "/offer.5d09cca58f221bdbba38.png": "c2dbbcf0b61743a4daae9994e560f9bf41dc35cb",
     "/polyfills-es2015.ffa9bb4e015925544f91.js": "79b2ff5ba292ae9e56f0b43982b9e76d9ddcf285",
     "/polyfills-es5.44547b4d4a23c72d0f9c.js": "529614f798f0a342b63b1229894f3c8b632fa4a3",
     "/runtime-es2015.cdfb0ddb511f65fdc0a0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
