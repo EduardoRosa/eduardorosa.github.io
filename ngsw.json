@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1600881700125,
+  "timestamp": 1600989312276,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,14 +10,14 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.f0d868ba4abc61ba4fc4.js",
-        "/main-es5.f0d868ba4abc61ba4fc4.js",
+        "/main-es2015.b070485e7c0b1ec800d4.js",
+        "/main-es5.b070485e7c0b1ec800d4.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.ffa9bb4e015925544f91.js",
         "/polyfills-es5.44547b4d4a23c72d0f9c.js",
         "/runtime-es2015.cdfb0ddb511f65fdc0a0.js",
         "/runtime-es5.cdfb0ddb511f65fdc0a0.js",
-        "/styles.d546c450f5c7622980a9.css"
+        "/styles.cb9fdad72a39c03ceb30.css"
       ],
       "patterns": []
     },
@@ -84,6 +84,8 @@
         "/assets/img/juan.png",
         "/assets/img/lines-gold.png",
         "/assets/img/lines-gray.png",
+        "/assets/img/lines-gray2.png",
+        "/assets/img/lines-gray3.png",
         "/assets/img/marcação.png",
         "/assets/img/menu-black-18dp.zip",
         "/assets/img/menu-black-18dp/1x/baseline_menu_black_18dp.png",
@@ -174,6 +176,8 @@
     "/assets/img/juan.png": "530e8c1d66ca6054a8de6fcf221198d538717436",
     "/assets/img/lines-gold.png": "372a9b275eba79ebe1035b28d1ee231acace6d82",
     "/assets/img/lines-gray.png": "401f34c0ebbd8b8062c1959db2aa87a4ffdea9c3",
+    "/assets/img/lines-gray2.png": "4e7d36996781a2b8a5ccc3bcdc41386ff2486730",
+    "/assets/img/lines-gray3.png": "e30cb7fdcaee77ec0f0fbad1080a396dc8336340",
     "/assets/img/marcação.png": "c4b03e64f85b624715520240b332580bdfc77172",
     "/assets/img/menu-black-18dp.zip": "96c9da26365bf2700990139e5887e3a5cb9b8603",
     "/assets/img/menu-black-18dp/1x/baseline_menu_black_18dp.png": "149fd299c6a82bdf260bd75d25f7a48f741129bd",
@@ -198,10 +202,10 @@
     "/fontawesome-webfont.af7ae505a9eed503f8b8.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
     "/fontawesome-webfont.b06871f281fee6b241d6.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
     "/fontawesome-webfont.fee66e712a8a08eef580.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "/index.html": "bffd17f5e457268e86e38db351722f584205be61",
+    "/index.html": "d12ee3e6d69afe81f570ef900a3326644610295d",
     "/lines-gold.add6ceb526b7f674aaac.png": "372a9b275eba79ebe1035b28d1ee231acace6d82",
-    "/main-es2015.f0d868ba4abc61ba4fc4.js": "e19b94279d70c434145f871e25593825ee7589f0",
-    "/main-es5.f0d868ba4abc61ba4fc4.js": "c3fe40501496b1742403ef7bc3927619fc36d86b",
+    "/main-es2015.b070485e7c0b1ec800d4.js": "40aab6f026b97dc5e1a66cc7648c76c9021866f3",
+    "/main-es5.b070485e7c0b1ec800d4.js": "43a49c0e5648b2d5d779b1ae702c385ce7a960ce",
     "/manifest.webmanifest": "9262ffbc679801db646c67f8e3f5a337825f45f2",
     "/offer-mobile.a80943ad46b979e6ccdc.png": "ad36dad894b333a675d965974b073fd29dd379bd",
     "/offer.5d09cca58f221bdbba38.png": "c2dbbcf0b61743a4daae9994e560f9bf41dc35cb",
@@ -209,7 +213,7 @@
     "/polyfills-es5.44547b4d4a23c72d0f9c.js": "529614f798f0a342b63b1229894f3c8b632fa4a3",
     "/runtime-es2015.cdfb0ddb511f65fdc0a0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/runtime-es5.cdfb0ddb511f65fdc0a0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.d546c450f5c7622980a9.css": "1565471dbd3060344e40faf505e4ceb9e96b3feb"
+    "/styles.cb9fdad72a39c03ceb30.css": "d98dae8d717adaf127a2dfd777c25adef234f6fb"
   },
   "navigationUrls": [
     {
